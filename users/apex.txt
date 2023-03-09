@@ -1,0 +1,6 @@
+{
+    nickname: "apex [bio]",
+    username: "apex.ka",
+    kaid: "kaid_1116211384842396834715509",
+    bio: "oops, deleted Tank program. contact me on another ;)"
+}
